@@ -130,9 +130,9 @@ const calendar = {
      *
      * @param param {Object} 按照festival的格式输入数据，设置阳历节日
      */
-    setFestival(param = {}) {
-        this.festival = param
-    },
+//    setFestival(param = {}) {
+//        this.festival = param
+//    },
 
     /**
      *
