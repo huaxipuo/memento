@@ -1,4 +1,4 @@
-var convert = { 
+const convert = { 
   f1: function getWeekDate(d1) { 
   pd = new Date(d1); 
   var day = pd.getDay(); 
@@ -7,4 +7,4 @@ var convert = {
   return week; 
   },
 
-};
+}
